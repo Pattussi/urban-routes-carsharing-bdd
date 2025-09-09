@@ -42,7 +42,7 @@ Todos os resultados foram documentados e eventuais falhas reportadas no **Jira**
 ## ▶️ Como Executar os Testes
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/Pattussi/Projeto-Sprint-3.git
+   git clone https://github.com/Pattussi/urban-routes-carsharing-bdd.git
    ```
 2. Instale as dependências:  
    ```bash
